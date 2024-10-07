@@ -33,7 +33,8 @@ Ao executar o programa, o menu principal será exibido com as seguintes opções
      - Capacidade máxima
      - Preços e quantidades de ingressos para as áreas VIP, Camarote e Pista.
    - Após fornecer todos os detalhes, o evento será cadastrado e estará disponível para a compra de ingressos.
-
+   - So é possivel adicionar no máximo 10 eventos.
+    
 3. **Salvar eventos em CSV (c)**:  
    - Esta opção salva todos os eventos cadastrados em um arquivo CSV.
    - Se não houver eventos cadastrados, o programa informará que não há eventos para salvar.
