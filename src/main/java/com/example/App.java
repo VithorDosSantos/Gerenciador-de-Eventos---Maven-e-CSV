@@ -1,9 +1,6 @@
 package com.example;
 
 import java.util.Scanner;
-
-import javax.swing.plaf.synth.SynthScrollBarUI;
-
 /**
  * Hello world!
  */

@@ -88,4 +88,7 @@ public class EventoCsv {
         }
         return listar;
     }
+    public String getNomeArquivo() {
+        return nomeArquivo;
+    }
 }
