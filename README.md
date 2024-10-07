@@ -48,4 +48,4 @@ Ao executar o programa, o menu principal será exibido com as seguintes opções
 ### Notas Adicionais:
 - O programa realiza várias validações, como garantir que os eventos estejam cadastrados antes de permitir a compra de ingressos ou o salvamento de eventos.
 - O processo de compra de ingressos inclui verificar a disponibilidade na área selecionada (VIP, Camarote ou Pista) antes de permitir que o usuário complete a compra.
-- Se quiser ler um arquivo csv, de fora mudar o caminho ou colocar o mesmo nome do caminho da classe do csv
+- O csv fica na pasta dados, entao caso queria ler um csv de fora ou acessar o csv após rodar o código ir na pasta dados.
